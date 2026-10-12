@@ -8,7 +8,7 @@ void renderTextAnswer() {
 
 void renderImageAnswer() {
     std::cout << " [G00GLE IMAGES]: Наглядная графическая схема процесса: " << std::endl;
-    std::cout << "URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwlL5-A1L2US0G3a7Eciy1VRNjRRTvfVUFad66Zv3VmbdD5SgLVzcTEkB&s=10" << std::endl;
+    std::cout << "URL: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwwL51-A1L2US0G3a7Eciy1VRNjRRTvfVUFad66Zv3VmbdD5SgLVzcTEkB&s=10" << std::endl;
 }
 
 int main() {
